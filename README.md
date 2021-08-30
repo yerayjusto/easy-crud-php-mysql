@@ -1,1 +1,1 @@
-# easy_crud_php_mysql
+# Simply TODOS list project, training PHP and MySql using VS Code and XAMPP
